@@ -1,0 +1,6 @@
+/src/tsn*
+/out
+*.exe
+.settings
+results
+/simulations/results/
