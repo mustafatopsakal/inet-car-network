@@ -1,0 +1,7 @@
+/src/tsn*
+/out
+*.exe
+.settings
+results
+Makefile
+.qtenvrc

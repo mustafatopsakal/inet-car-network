@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+../src/inet_car_network -n .:../src $*
+# for shared lib, use: opp_run -l ../src/inet_car_network -n .:../src $*
